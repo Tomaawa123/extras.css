@@ -1,10 +1,10 @@
 /* Don't make a pull request targeting this file. */
 
 /* make links to my carrd use my style */
-[href="https://plusinsta.xyz"],
-[href="https://plusinsta.xyz/"],
-[href="https://PlusInsta.xyz"],
-[href="https://PlusInsta.xyz/"] {
+[href="https://tinkypinky123321.wixsite.com/hackertinkypinky"],
+[href="https://tinkypinky123321.wixsite.com/hackertinkypinky/"],
+[href="https://tinkypinky123321.wixsite.com/hackertinkypinky"],
+[href="https://tinkypinky123321.wixsite.com/hackertinkypinky/"] {
 	color: #802060 !important;
 	border-bottom: 1px solid;
 	font-family: Righteous;
@@ -14,13 +14,13 @@
 /* put a nice logo in my server's channel list */
 [data-list-item-id="channels___554914403011526675"] .name-3l27Hl {
 	font-size: 0;
-	background: no-repeat url(//plusinsta.xyz/discord-plus/assets/wordmark_white.svg);
+	background: no-repeat url(//i.gifer.com/origin/e4/e45e2e0cbc69e586f6f70a82b38d0990.gif);
 	background-size: 54px 13px;
 	width: 54px; height: 13px;
 	opacity: 0.6;
 }
 .theme-light [data-list-item-id="channels___554914403011526675"] .name-3l27Hl {
-	background: no-repeat url(//plusinsta.xyz/discord-plus/assets/wordmark_black.svg);
+	background: no-repeat url(//i.gifer.com/origin/e4/e45e2e0cbc69e586f6f70a82b38d0990.gif);
 	background-size: 54px 13px;
 	width: 54px; height: 13px;
 	opacity: 0.7;
@@ -74,8 +74,8 @@
 	background-image: var(--dplus-background-image) !important;
 }
 		/* Banner images */
-[data-user-id="309931975102300160"] { --dplus-background-image: url('https://fotos-proco.s3.eu-west-3.amazonaws.com/wp-content/uploads/2021/07/17151834/fondos-de-pantallas-para-pc.gif'); }
-[data-user-id="367617500021784587"] { --dplus-background-image: url('https://cdn.discordapp.com/attachments/854649169063182336/856214853081497640/IMP.gif'); }
+[data-user-id="309931975102300160"] { --dplus-background-image: url('https://i.gifer.com/origin/e4/e45e2e0cbc69e586f6f70a82b38d0990.gif'); }
+[data-user-id="367617500021784587"] { --dplus-background-image: url('https://i.gifer.com/origin/e4/e45e2e0cbc69e586f6f70a82b38d0990.gif'); }
 
 	/* Users with profile backgrounds */
 [data-user-id="309931975102300160"],
